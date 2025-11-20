@@ -1,0 +1,45 @@
+/*Le style de la page de choix du supermarché */
+
+/*-----QWidget-----*/
+QWidget
+{
+    background-color: #5EB6B9;
+    color: #FFFFFF;
+    border-color: #5EB6B9;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/*-----QLabel-----*/
+QLabel
+{
+    background-color: transparent;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+#title_label {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+/*-----QToolButton-----*/
+QToolButton {
+    background-color: #4A8B8E;
+    border: 2px solid #3A6B6E;
+    border-radius: 12px;
+    padding: 10px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+QToolButton:hover {
+    background-color: #3A6B6E;
+    border: 2px solid #2A4B4E;
+}
+
+QToolButton:pressed {
+    background-color: #2A4B4E;
+    border: 2px solid #1A2B2E;
+} 

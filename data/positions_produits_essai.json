@@ -1,0 +1,96 @@
+{
+  "entree_magasin": [
+    100,
+    3
+  ],
+  "positions_produits": {
+    "lait": [
+      38,
+      12
+    ],
+    "pâtes": [
+      34,
+      18
+    ],
+    "beurre": [
+      35,
+      25
+    ],
+    "papier toilette": [
+      37,
+      27
+    ],
+    "savon": [
+      29,
+      27
+    ],
+    "chips": [
+      26,
+      31
+    ],
+    "shampooing": [
+      19,
+      32
+    ],
+    "brosse à dents": [
+      13,
+      18
+    ],
+    "bananes": [
+      4,
+      27
+    ],
+    "brioche": [
+      25,
+      40
+    ],
+    "riz": [
+      47,
+      31
+    ],
+    "yaourt": [
+      45,
+      15
+    ],
+    "eau Minérale": [
+      49,
+      7
+    ],
+    "oeufs": [
+      35,
+      10
+    ],
+    "pommes": [
+      41,
+      39
+    ],
+    "pain d'épices": [
+      5,
+      17
+    ],
+    "farine": [
+      13,
+      11
+    ],
+    "café moulu": [
+      10,
+      11
+    ],
+    "petits pois": [
+      15,
+      34
+    ],
+    "sardine": [
+      16,
+      41
+
+
+
+
+
+
+
+
+    ]
+  }
+}

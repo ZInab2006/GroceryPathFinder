@@ -1,0 +1,44 @@
+Division des tâches : 
+Ahmed/Soukaina : Application 1
+Zinab/Enzo : Application 2
+
+Compte-rendu du projet
+
+27/05/2025
+-Mise en place du dépôt Git
+-Prise de connaissance du sujet de la SAE
+
+Nombre de personne présente physiquement : 
+1 (Enzo)
+
+Tâches réalisés individuellement : 
+Enzo : création/mise en place du dépôt sur github, Choix de la liste des courses + nom du magasin
+
+10/06/2025
+
+Tâches réalisés : 
+Application 2 : 
+-Script python Dijkstra
+-Developpement des pages de la 2eme application
+-cadrillage test du plan du magasin
+-positionnement test des produits
+
+Application1:
+-configuration de l'environnement python, et creation du fichier app.py
+-creation de la classe Projet (gestion du projet), classe GestionnaireProduits pour charger les produits
+-creation de la fenetre principale FenetrePrincipale avec le panneau de controle
+-inplementation des deux dialogues "Nouveau Projet" et "Sélectionner Produits"
+
+
+11/06/2025
+
+Tâches réalisés : 
+Application 2 : 
+-Creation des vues , des controlleurs et des modèles des 3 premieres pages.
+
+
+11/06 et 12/06
+App1 :
+-Finalisation de l'application2, finalisation de vues, controllers et models
+-positionnement des produits avec leurs images
+

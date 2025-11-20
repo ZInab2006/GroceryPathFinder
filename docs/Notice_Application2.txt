@@ -1,0 +1,15 @@
+Notice ds'utilisation pour L'application 2
+
+------Les réalisateurs------
+Application réalisé par : Zinab OUTMANI et Enzo CIUFFA
+
+------Les problèmes ?------
+Si par malheur il y a un problemes sur les textes : 
+-Vous ne les voyez pas ?
+Alors vérifier si vous avez activer ou désactiver le paramètres windows pour forcer le sombre sur les applications.
+
+------Le lancement------
+-Lancer l'application ? 
+Executer le main.py
+
+PS : Le positionnement des produits n'est pas le même que le même que sur la première application.

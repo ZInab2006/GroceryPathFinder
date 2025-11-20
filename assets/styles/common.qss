@@ -1,0 +1,74 @@
+/* Style commun pour toutes les fenêtres */
+
+/* Style de base pour toutes les fenêtres */
+QWidget {
+    background-color: #5EB6B9;
+    color: #FFFFFF;
+    border-color: #5EB6B9;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* Style pour les labels */
+QLabel {
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+/* Style pour les boutons */
+QPushButton, QToolButton {
+    background-color: #4A8B8E;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 7px;
+    padding: 10px 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+QPushButton:hover, QToolButton:hover {
+    background-color: #3A6B6E;
+}
+
+QPushButton:pressed, QToolButton:pressed {
+    background-color: #2A4B4E;
+}
+
+/* Style pour les titres */
+#title_label {
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin: 10px 0;
+}
+
+/* Style spécifique pour les boutons de magasin */
+QToolButton {
+    background-color: #4A8B8E;
+    border: 2px solid #3A6B6E;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 5px;
+}
+
+QToolButton:hover {
+    background-color: #3A6B6E;
+    border: 2px solid #2A4B4E;
+}
+
+QToolButton:pressed {
+    background-color: #2A4B4E;
+    border: 2px solid #1A2B2E;
+}
+
+/* Style pour le texte sous l'icône */
+QToolButton {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+/* Style pour l'icône */
+QToolButton::icon {
+    padding: 10px;
+} 

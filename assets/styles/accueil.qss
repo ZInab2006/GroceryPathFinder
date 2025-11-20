@@ -1,0 +1,37 @@
+/*Le style de la page d'accueil */
+
+/*-----QMainWindow-----*/
+QMainWindow
+{
+	background-color: #5EB6B9;
+	color:  #FFFFFF;
+    border-color: #5EB6B9;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+/*-----QWidget-----*/
+QWidget
+{
+	background-color: #5EB6B9;
+	color:  #FFFFFF;
+    border-color: #5EB6B9;
+}
+
+/*-----QMenuBar-----*/
+QMenuBar
+{
+	background-color: #4A8B8E;
+	color: #FFFFFF;
+}
+
+QMenuBar::item
+{
+	background-color: #4A8B8E;
+	color: #FFFFFF;
+}
+
+QMenuBar::item:selected
+{
+	background-color: #3A6B6E;
+}

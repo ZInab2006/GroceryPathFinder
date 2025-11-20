@@ -1,0 +1,26 @@
+# Liste de course pour la 2eme application
+
+20 article choisis au hasard dans la liste : 
+
+1/lait 
+2/pâtes
+3/beurre
+4/papier toilette
+5/savon
+6/chips
+7/shampooing
+8/brosse à dents
+9/bananes
+10/brioche
+11/riz
+12/yaourt
+13/eau Minérale
+14/oeufs
+15/pommes
+16/pain d'épices
+17/farine
+18/café moulu
+19/petits poids
+20/sardine
+
+Et vu que j'ai pas d'inspi, on va appeler le magasin SUPER-CAROUF
